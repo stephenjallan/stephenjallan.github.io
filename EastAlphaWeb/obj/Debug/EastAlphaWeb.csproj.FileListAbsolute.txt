@@ -1,0 +1,6 @@
+D:\Dev\EastAlphaWeb\EastAlphaWeb\bin\EastAlphaWeb.dll.config
+D:\Dev\EastAlphaWeb\EastAlphaWeb\bin\EastAlphaWeb.dll
+D:\Dev\EastAlphaWeb\EastAlphaWeb\bin\EastAlphaWeb.pdb
+D:\Dev\EastAlphaWeb\EastAlphaWeb\obj\Debug\EastAlphaWeb.csprojResolveAssemblyReference.cache
+D:\Dev\EastAlphaWeb\EastAlphaWeb\obj\Debug\EastAlphaWeb.dll
+D:\Dev\EastAlphaWeb\EastAlphaWeb\obj\Debug\EastAlphaWeb.pdb
