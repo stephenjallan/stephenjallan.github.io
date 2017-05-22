@@ -4,3 +4,8 @@ D:\Dev\EastAlphaWeb\EastAlphaWeb\bin\EastAlphaWeb.pdb
 D:\Dev\EastAlphaWeb\EastAlphaWeb\obj\Debug\EastAlphaWeb.csprojResolveAssemblyReference.cache
 D:\Dev\EastAlphaWeb\EastAlphaWeb\obj\Debug\EastAlphaWeb.dll
 D:\Dev\EastAlphaWeb\EastAlphaWeb\obj\Debug\EastAlphaWeb.pdb
+D:\Dev\EastAlphaWeb\stephenjallan.github.io\EastAlphaWeb\bin\EastAlphaWeb.dll.config
+D:\Dev\EastAlphaWeb\stephenjallan.github.io\EastAlphaWeb\bin\EastAlphaWeb.dll
+D:\Dev\EastAlphaWeb\stephenjallan.github.io\EastAlphaWeb\bin\EastAlphaWeb.pdb
+D:\Dev\EastAlphaWeb\stephenjallan.github.io\EastAlphaWeb\obj\Debug\EastAlphaWeb.dll
+D:\Dev\EastAlphaWeb\stephenjallan.github.io\EastAlphaWeb\obj\Debug\EastAlphaWeb.pdb
